@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) incl classes - Orange
+#######################################
+
+TrainMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Orange
+#######################################
+
+activeDelay	KEYWORD2
+directionA	KEYWORD2
+directionB	KEYWORD2
+emergencyStop	KEYWORD2
+isBraking	KEYWORD2
+motorAcc	KEYWORD2
+motorMinSpeed	KEYWORD2
+motorSetup	KEYWORD2
+throttleA	KEYWORD2
+throttleB	KEYWORD2
+updateThrottles	KEYWORD2
+_getAdj	KEYWORD2
+_pwmSetup	KEYWORD2
+_setDirA	KEYWORD2
+_setDirB	KEYWORD2
+_setMotor	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2) - Orange
+#######################################
+
+#######################################
+# Constants (LITERAL1) - Blue
+#######################################
+
+TM_STATUS	LITERAL1
+TM_STATUS_VERBOSE	LITERAL1
+TM_DEBUG	LITERAL1
+TM_PRESCALE	LITERAL1
+TM_FAST_PWM	LITERAL1
+TM_REVERSE	LITERAL1
+TM_EAST	LITERAL1
+TM_WEST	LITERAL1
+TM_CUSTOM_MOTOR	LITERAL1
+TM_ARDUINO_MOTOR	LITERAL1
+TM_ARDUMOTO_MOTOR	LITERAL1
+TM_SEEED_MOTOR	LITERAL1
+TM_DFROBOT_MOTOR	LITERAL1
+TM_STOP	LITERAL1
+TM_FULL	LITERAL1
+TM_MOTOR_A	LITERAL1
+TM_MOTOR_B	LITERAL1
+TM_SKEW_INTERVAL	LITERAL1
+TM_MIN_UPDATE	LITERAL1
