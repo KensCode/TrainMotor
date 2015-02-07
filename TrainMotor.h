@@ -1,5 +1,5 @@
 /*  TrainMotor.h
-    Version a1 - initial alpha release
+    Version a2 - alpha release
     A library for controlling model trains using a motor shield.
     
     This library is distributed in the hope that it will be useful,

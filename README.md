@@ -1,6 +1,6 @@
 # TrainMotor-Library
 ---
-Version a1 - initial version, May 2013
+Version a2 - initial version, Oct 2013
 
 by Ken Shores
 
@@ -8,7 +8,7 @@ A library for use with an Arduino that supports DC model train control for simpl
 
 This code is released to the public domain.
 
-At present this library, while working, is still under development and includes a number of status *println* commands for use with the serial monitor.  To disable these, comment out the TM_STATUS *#define* in *TrainMotor.h*.
+At present this library, while working, is still under development and includes a number of status *println* commands for use with the serial monitor.  These are disabled by default. To enable these, uncomment the TM_STATUS *#define* in *TrainMotor.h*.
 
 **
 ```
